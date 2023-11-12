@@ -35,8 +35,10 @@ JobEarth is an online marketplace where people and businesses can connect for jo
 - HTML
 - Tailwind CSS
 - Javascript
-- ReactJS
+- React.js
 - Firebase
 - MongoDB
+- Node.js
+- Express.js
 - packages - react router dom, axios, sweetalert2, lottie react, react tabs, react step progress bar, react helmet, react icons
 
