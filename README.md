@@ -1,5 +1,3 @@
-- Live Link: https://job-earth.web.app/
-
 # My project description
 
 JobEarth is an online marketplace where people and businesses can connect for job-related activities like posting jobs, bidding on projects, and managing jobs, and requests. The website offers various features to enhance the job-seeking and project-management experience:
